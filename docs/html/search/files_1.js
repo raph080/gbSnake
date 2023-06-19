@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['readme_2emd_0',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]]
+  ['gameover_2ec_0',['gameover.c',['../gameover_8c.html',1,'']]],
+  ['gameover_2eh_1',['gameover.h',['../gameover_8h.html',1,'']]],
+  ['graphics_2ec_2',['graphics.c',['../graphics_8c.html',1,'']]],
+  ['graphics_2eh_3',['graphics.h',['../graphics_8h.html',1,'']]]
 ];
