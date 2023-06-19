@@ -18,6 +18,10 @@ Optional:
 * Python 3
 * Pillow
 
+## Documentation
+
+For more information about the code, please read [the documentation](https://raph080.github.io/gbSnake/html/index.html).
+
 ## Getting Started
 
 1. Make sure gcc and make are installed
